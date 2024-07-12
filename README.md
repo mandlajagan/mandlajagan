@@ -16,9 +16,8 @@
 
 \begin{rSection}{OBJECTIVE}
 
-{Recent B.Tech graduate passionate about innovative problem-solving and technology-driven solutions. Skilled in
-Python, C, HTML, and Data Structures. Eager to apply theoretical knowledge to practical projects and expand skill
-set. Enthusiastic about exploring emerging technologies for impactful results. Committed to professional excellence
+{I am pursing B.Tech final year and i am also passionate and innovative problem-solving and technology-driven solutions. Skilled in
+Python, C, HTML, and machine learning,operating system. Eager to apply theoretical knowledge to practical projects and expand skill set. Committed to professional excellence
 and collaborative teamwork.}
 
 
@@ -47,28 +46,20 @@ and collaborative teamwork.}
 \begin{rSection}{SKILLS}
 
 \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-languages  :- Python, HTML, SQL
+languages  :- Python, HTML, SQL,C,Java
 \\
-\\Concepts :-Data Structures, Microsoft Word, Microsoft PowerPoint, Microsoft Excel, Cloud Computing
+\\Concepts :- Microsoft Word, Microsoft PowerPoint, Microsoft Excel, Cloud Computing
 \\
 \end{tabular}\\
 \end{rSection}
 
 \begin{rSection}{EXPERIENCE}
 
-\textbf{Python Programming Intern 
-} \hfill Jul 2023 - Aug 2023\\
-Sync Interns \hfill \textit{virtual}
- \begin{itemize}
-    \itemsep -3pt {} 
-     \item Successfully completed a dynamic one-month Python programming internship, gaining valuable hands-on experience and enhancing proficiency in Python development.
-     \item Created and successfully executed projects encompassing an Alarm Clock application, OTP Verification system,
-URL Shortener service, and Chatbot, demonstrating proficiency in software development and project delivery. 
- \end{itemize}
+
  
 \textbf{Web Development and Designing Intern 
 } \hfill July 2023- oct2023\\
-Oasis Infobyte \hfill \textit{}
+ \hfill \textit{}
  \begin{itemize}
     \itemsep -3pt {} 
      \item Successfully completed a dynamic one-month web development and design internship, gaining valuable hands-on
